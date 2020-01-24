@@ -62,31 +62,31 @@ table {
 .small-box{
     width: 200px;
 }
-#google-guidelines{
+.google-guidelines{
     background: #FE5349;
 }
-#material-design{
+.material-design{
     background: #0C8871;
 }
-#doodle-archieve{
+.doodle-archieve{
     background: #B601FF;
 }
-#google{
+.google{
     background: #0DC1FD;
 }
-#design-minutes{
+.design-minutes{
     background: #08CA80;
 }
-#glass-designers{
+.glass-designers{
     background: #01F361;
 }
-#html{
+.html{
     background: #E8FF1D;
 }
-#css{
+.css{
     background: #FE7405;
 }
-#javascript{
+.javascript{
     background: #E52F2D;
 }
 section{
