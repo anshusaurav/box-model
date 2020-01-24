@@ -50,7 +50,7 @@ table {
 /* CSS added by me */
 .big-box, .small-box{
     height: 200px;
-    margin: 10px;
+    margin: 5px;
     padding: 20px;
     display: inline-block;
     color: white;
@@ -89,7 +89,6 @@ table {
 #javascript{
     background: #E52F2D;
 }
-
 section{
     width: 70%;
     margin-left: auto;

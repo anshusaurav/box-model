@@ -54,8 +54,8 @@ h2{
   padding: 20px 0;
   margin:20px;
 }
-.normal-border, .double-border, .dashed-border, .dotted-border, .no-border{
-	background: red;
+.box{
+	background: #B22E25;
 	width:150px;
 	height: 100px;
 	padding: 20px;
@@ -82,7 +82,7 @@ h2{
 	width:440px;
 	height: 470px;
 	margin: 10px;
-	border-bottom: 20px solid #812E80;
+	border-bottom: 30px solid #812E80;
 	border-top: 20px solid #812E80;
 	border-left: 10px solid #812E80;
 	border-right: 10px solid #812E80;
@@ -97,4 +97,5 @@ h2{
 	font-size: 20px;
 	line-height: 1.5;
 	font-weight: 500;
+	color: white;
 }
